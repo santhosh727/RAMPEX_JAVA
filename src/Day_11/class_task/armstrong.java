@@ -1,4 +1,4 @@
-package day_11.class_task;
+package Day_11.class_task;
 
 public class armstrong {
     public static void main(String[] args){
