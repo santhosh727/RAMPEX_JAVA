@@ -4,7 +4,7 @@ public class armstrong {
     public static void main(String[] args){
 
 
-        System.out.println("the given amstorng number is " +checkams(153));
+        System.out.println("the given armstorng number is " +checkams(153));
 
 
     }
@@ -28,7 +28,7 @@ public class armstrong {
             num=num/10;
 
         }
-        System.out.println("the amstrong is "+sum);
+        System.out.println("the armstrong is "+sum);
 
         if (org==sum){
             return true;
